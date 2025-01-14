@@ -26,7 +26,7 @@ SECRET_KEY = os.environ['SECRET_KEY']
 # DEBUG = True
 DEBUG = False
 
-ALLOWED_HOSTS = ["specialbloger.herokuapp.com",  "localhost", '127.0.0.1']
+ALLOWED_HOSTS = ["specialbloger.herokuapp.com",  "localhost", '127.0.0.1,', "specialbloger..com"]
 # ALLOWED_HOSTS = ["*"]
 
 
